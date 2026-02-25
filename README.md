@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rizaldy Al Kautsar Utomo</h1>
+<h1 align="center">Rizaldy Al Kautsar Utomo</h1>
 <p align="center"><strong>AI Engineer & Data Scientist — building things that actually work</strong></p>
 <p align="center">CMU Heinz '27 • Ex-Telkomsel • AI for developing markets</p>
 
