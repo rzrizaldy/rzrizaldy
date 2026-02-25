@@ -59,6 +59,48 @@
 | 📖 **Iqrava** | Quran tilawah tracker focused on daily consistency and personal learning flow. | [Visit](https://iqrava.vercel.app) | [Repo](https://github.com/rzrizaldy/iqrava) |
 | ⏰ **Desk Clock + Weather + Quest Widget** | Real-time analog clock, live weather, and auto-completing mini quest inside the portfolio desktop. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
 
+## 💼 Resume Experience (with Logos)
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Telkomsel_%282021%29.svg" alt="Telkomsel" height="26" />
+    </td>
+    <td>
+      <strong>Telkomsel</strong> — Data Scientist II <em>(Mar 2020 - Jul 2025)</em><br/>
+      Deployed econometric models for Telco Service Loan with measurable revenue lift, built e-commerce install predictors, <strong>Transformed Telco Location Data (Mobility)</strong> from yearly to monthly runs (4 days to 16 hours), and <strong>Initiated</strong> a consultative data team that supported high-value monetization decisions.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://www.google.com/s2/favicons?domain=ecoflow.com&sz=64" alt="EcoFlow" height="28" />
+    </td>
+    <td>
+      <strong>EcoFlow</strong> — Founder & Team Lead <em>(Aug 2024 - Jul 2025)</em><br/>
+      Built an AI-powered travel assistant that uses telco data to recommend destination-aware itineraries for users in real-world planning workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Carnegie_Mellon_University_wordmark.svg" alt="Carnegie Mellon University" height="26" />
+    </td>
+    <td>
+      <strong>Carnegie Mellon University</strong> — M.S. Public Policy & Management <em>(Expected May 2027)</em><br/>
+      Focused on AI management, policy implementation, and deploying responsible AI in public-interest settings.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://www.google.com/s2/favicons?domain=itb.ac.id&sz=64" alt="Institut Teknologi Bandung" height="28" />
+    </td>
+    <td>
+      <strong>Institut Teknologi Bandung</strong> — B.Sc. Information Systems & Technology <em>(2014 - 2018)</em><br/>
+      Built foundations in statistics, enterprise architecture, and database modeling that anchor current analytics and AI product work.
+    </td>
+  </tr>
+</table>
+
+
 ## 📊 GitHub Contribution Visualization
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzrizaldy&theme=github-dark&hide_border=true" alt="Contribution graph" />
