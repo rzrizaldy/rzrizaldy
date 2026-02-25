@@ -57,7 +57,7 @@
 | 🎨 **BukuGambar.AI** | Turns photos into coloring-page outlines using AI, inspired by a childhood drawing tool. | [Visit](https://bukugambar-ai.vercel.app) | [Repo](https://github.com/rzrizaldy/BukuGambarAI) |
 | 🎓 **LPDP CTRL+F** | Search and compare scholarship-friendly programs (28,000+ entries) faster for applicants. | [Visit](https://lpdp-find.vercel.app) | [Repo](https://github.com/rzrizaldy/lpdp_univ) |
 | 📖 **Iqrava** | Quran tilawah tracker focused on daily consistency and personal learning flow. | [Visit](https://iqrava.vercel.app) | [Repo](https://github.com/rzrizaldy/iqrava) |
-| ⏰ **Desk Clock + Weather + Quest Widget** | Real-time analog clock, live weather, and auto-completing mini quest inside the portfolio desktop. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
+| 🚍 **PGH Transit Atlas** | Interactive Pittsburgh transit atlas for exploring PRT bus and mobility patterns for urban decisions. | [Visit](https://github.com/rzrizaldy/pgh-transit-atlas) | [Repo](https://github.com/rzrizaldy/pgh-transit-atlas) |
 
 ## 💼 Experience
 
