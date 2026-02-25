@@ -59,7 +59,7 @@
 | 📖 **Iqrava** | Quran tilawah tracker focused on daily consistency and personal learning flow. | [Visit](https://iqrava.vercel.app) | [Repo](https://github.com/rzrizaldy/iqrava) |
 | ⏰ **Desk Clock + Weather + Quest Widget** | Real-time analog clock, live weather, and auto-completing mini quest inside the portfolio desktop. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
 
-## 💼 Resume Experience (with Logos)
+## 💼 Experience
 
 <table>
   <tr>
@@ -67,17 +67,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Telkomsel_%282021%29.svg" alt="Telkomsel" height="26" />
     </td>
     <td>
-      <strong>Telkomsel</strong> — Data Scientist II <em>(Mar 2020 - Jul 2025)</em><br/>
+      <strong>Telkomsel</strong> — Data Scientist II <em>(Aug 2018 - Jul 2025)</em><br/>
       Deployed econometric models for Telco Service Loan with measurable revenue lift, built e-commerce install predictors, <strong>Transformed Telco Location Data (Mobility)</strong> from yearly to monthly runs (4 days to 16 hours), and <strong>Initiated</strong> a consultative data team that supported high-value monetization decisions.
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center">
-      <img src="https://www.google.com/s2/favicons?domain=ecoflow.com&sz=64" alt="EcoFlow" height="28" />
-    </td>
-    <td>
-      <strong>EcoFlow</strong> — Founder & Team Lead <em>(Aug 2024 - Jul 2025)</em><br/>
-      Built an AI-powered travel assistant that uses telco data to recommend destination-aware itineraries for users in real-world planning workflows.
     </td>
   </tr>
   <tr>
@@ -85,7 +76,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Carnegie_Mellon_University_wordmark.svg" alt="Carnegie Mellon University" height="26" />
     </td>
     <td>
-      <strong>Carnegie Mellon University</strong> — M.S. Public Policy & Management <em>(Expected May 2027)</em><br/>
+      <strong>Carnegie Mellon University</strong> — M.S. Analytics, Policy, Artificial Intelligence <em>(Expected May 2027)</em><br/>
       Focused on AI management, policy implementation, and deploying responsible AI in public-interest settings.
     </td>
   </tr>
