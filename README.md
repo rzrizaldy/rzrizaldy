@@ -50,7 +50,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## 🎨 Featured From allrize.ai (5 Projects)
+## 🎨 Featured Projects
 | Project | What it does | Live | Code |
 | --- | --- | --- | --- |
 | 🖥️ **allrize.ai Desktop OS** | Retro Mac-style personal portfolio with draggable windows, widgets, and interactive desktop UX. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
