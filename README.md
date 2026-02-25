@@ -50,7 +50,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## 🎨 Featured Projects
+## 🎨 Featured From allrize.ai (5 Projects)
 | Project | What it does | Live | Code |
 | --- | --- | --- | --- |
 | 🖥️ **allrize.ai Desktop OS** | Retro Mac-style personal portfolio with draggable windows, widgets, and interactive desktop UX. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
@@ -103,9 +103,12 @@
 
 ## 🧠 Data Science + Engineering Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rzrizaldy&show_icons=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzrizaldy&layout=compact&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rzrizaldy&theme=github_dark" alt="GitHub stats summary" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzrizaldy&theme=github_dark" alt="Top languages by repository" />
 </p>
+
+## 🧩 Favorite Build Combo
+<p align="center">🧠 <strong>Claude Code</strong> for Planning, ⚙️ <strong>Codex</strong> for auto execute, and 🔍 <strong>Cursor</strong> for inspect coding.</p>
 
 ## 🌱 Current Focus
 - Building practical AI products for high-friction decision workflows.
