@@ -9,11 +9,6 @@
   <a href="https://github.com/rzrizaldy/rzrizaldy.github.io/raw/master/assets/resume.pdf">📄 Resume</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/rzrizaldy?style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rzrizaldy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=rzrizaldy&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
 
 ## 🛠️ Tech Stack
 
