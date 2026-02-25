@@ -18,7 +18,7 @@
 **Ship:** AWS · Vercel · Cloudflare · GitHub Actions  
 **Think:** Figma · Tableau · Metabase · PostHog
 
-## 🎨 Featured From allrize.ai
+## 🎨 Featured
 
 | Project | What it does | Live | Code |
 | --- | --- | --- | --- |
@@ -74,10 +74,10 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzrizaldy&theme=github_dark" alt="Top languages by repository" />
 </p>
 
-## 🧩 Favorite Build Combo
+## 🧩 Builders Tools Chain
 <p align="center">🧠 <strong>Claude Code</strong> for planning · ⚙️ <strong>Codex</strong> for auto-execute · 🔍 <strong>Cursor</strong> for inspect</p>
 
-## 🌱 What I'm Up To
+## 🌱 Looking Forward
 - Building practical AI products for high-friction decision workflows
 - Bridging data engineering, analytics, and public-interest AI policy
 - **Open to Summer 2026 internships** — AI Engineering / Analytics / Data Science
