@@ -2,7 +2,7 @@
 
 <h3 align="center">Rizaldy Al Kautsar Utomo</h3>
 
-<p align="center"><em>Seven years as a data scientist taught me how to build the systems.<br>Now I want to help decide how they should be built.</em></p>
+<p align="center">I spent seven years at Telkomsel, where analytics from 170 million phone users fed products, revenue and policy calls on digital equity in Indonesia.<br>Now I'm at Carnegie Mellon on an LPDP scholarship, building AI for policy and development,<br>and asking who it reaches before asking how well it scores.</p>
 
 <p align="center">
   <a href="https://allrize.tech"><strong>allrize.tech</strong></a> ·
