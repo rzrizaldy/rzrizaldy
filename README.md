@@ -1,4 +1,4 @@
-<a href="https://allrize.tech"><img src="assets/allrize-banner.jpg" alt="allrize.tech · Analytics, Policy, AI Systems" width="100%"></a>
+<a href="https://allrize.tech"><img src="assets/confluence-banner-2026-10.jpg" alt="allrize.tech · Analytics, Policy, AI Systems" width="100%"></a>
 
 <h3 align="center">Rizaldy Al Kautsar Utomo</h3>
 
