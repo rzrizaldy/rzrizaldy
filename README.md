@@ -1,86 +1,72 @@
-<h1 align="center">Rizaldy Al Kautsar Utomo</h1>
-<p align="center"><strong>AI Engineer & Data Scientist — building things that actually work</strong></p>
-<p align="center">CMU Heinz '27 • Ex-Telkomsel • AI for developing markets</p>
+<a href="https://allrize.tech"><img src="assets/allrize-banner.png" alt="allrize.tech · Analytics, Policy, AI Systems · from Bandung to Pittsburgh" width="100%"></a>
+
+<h3 align="center">Rizaldy Al Kautsar Utomo</h3>
+
+<p align="center"><em>Seven years as a data scientist taught me how to build the systems.<br>Now I want to help decide how they should be built.</em></p>
 
 <p align="center">
-  <a href="https://rzrizaldy.github.io">🖥️ allrize.ai</a> •
-  <a href="https://www.linkedin.com/in/rizaldykautsar/">💼 LinkedIn</a> •
-  <a href="mailto:rutomo@andrew.cmu.edu">📧 Email</a> •
-  <a href="https://github.com/rzrizaldy/rzrizaldy.github.io/raw/master/assets/resume.pdf">📄 Resume</a>
+  <a href="https://allrize.tech"><strong>allrize.tech</strong></a> ·
+  <a href="https://allrize.tech/assets/resume.pdf">Resume (PDF)</a> ·
+  <a href="https://www.linkedin.com/in/rizaldykautsar/">LinkedIn</a> ·
+  <a href="mailto:rutomo@andrew.cmu.edu">rutomo@andrew.cmu.edu</a>
 </p>
 
+<p align="center"><img src="assets/rule.svg" width="66" height="3" alt=""></p>
 
-## 🛠️ Tech Stack
+## Now
 
-**Core:** Python · TypeScript · SQL · R  
-**ML/Data:** PyTorch · scikit-learn · PySpark · Pandas · NumPy  
-**Build:** React · Node.js · Vite · Streamlit  
-**Ship:** AWS · Vercel · Cloudflare · GitHub Actions  
-**Think:** Figma · Tableau · Metabase · PostHog
+- **Carnegie Mellon University, Heinz College.** MS Public Policy & Management, Data Analytics, with a concentration in AI Management. GPA 3.94, expected May 2027.
+- **Teaching assistant** for 90-710 Applied Economic Analysis and 94-844 Generative AI Lab.
+- **Summer 2026 · Urban Redevelopment Authority of Pittsburgh.** Built an in-house geospatial monitoring platform that replaced a $15,000-a-year survey subscription, then handed the GIS team an agent-ready repo so they can keep shipping without a dedicated engineer.
+- **2018 to 2025 · Telkomsel**, Southeast Asia's largest telco (170M users). Built the data team behind a USD 11M-a-year insights line, cut mobility pipeline delivery from 4 days to 16 hours, and shipped econometric models behind a 6% revenue lift.
 
-## 🎨 Featured
+**Open to** AI safety, geospatial intelligence and solution architecture roles. Remote projects now, full-time from 2027.
 
-| Project | What it does | Live | Code |
-| --- | --- | --- | --- |
-| 🖥️ **allrize.ai Desktop OS** | Retro Mac-style personal portfolio with draggable windows, widgets, and interactive desktop UX. | [Visit](https://rzrizaldy.github.io) | [Repo](https://github.com/rzrizaldy/rzrizaldy.github.io) |
-| 🎨 **BukuGambar.AI** | Turns photos into coloring-page outlines using AI, inspired by a childhood drawing tool. | [Visit](https://bukugambar-ai.vercel.app) | [Repo](https://github.com/rzrizaldy/BukuGambarAI) |
-| 🎓 **LPDP CTRL+F** | Search and compare scholarship-friendly programs (28,000+ entries) faster for applicants. | [Visit](https://lpdp-find.vercel.app) | [Repo](https://github.com/rzrizaldy/lpdp_univ) |
-| 📖 **Iqrava** | Quran tilawah tracker focused on daily consistency and personal learning flow. | [Visit](https://iqrava.vercel.app) | [Repo](https://github.com/rzrizaldy/iqrava) |
-| 🚍 **PGH Transit Atlas** | Interactive Pittsburgh transit atlas for exploring PRT bus and mobility patterns for urban decisions. | [Visit](https://github.com/rzrizaldy/pgh-transit-atlas) | [Repo](https://github.com/rzrizaldy/pgh-transit-atlas) |
+## Recently shipped
 
-## 💼 Experience
+| | What it is | Links |
+|---|---|---|
+| **Vitamin Bob**<br><sub>Oct 2026</sub> | Primary care triage over a free missed call. Gemma 4 runs offline on one laptop; fixed rules, not the model, set the urgency. Built with a team of four for the Hack-Nation × World Bank *Small AI for Development* hackathon. | [Site](https://vitamin-bob.vercel.app/) · [Data story](https://rzrizaldy.github.io/vitamin-bob/) · [Code](https://github.com/rzrizaldy/vitamin-bob) |
+| **Quran Turn**<br><sub>Sep 2026</sub> | A Claude Code and Codex plugin that opens a quiet, offline Qur'an reader while your coding agent works. Exact Tanzil text, no account, no tracking. | [Site](https://quran.allrize.tech) · [Code](https://github.com/rzrizaldy/quran-turn) |
+| **MapTruth**<br><sub>Sep 2026</sub> | AI designs the map, OpenStreetMap keeps it true. WebMCP-grounded map art, because a made-up map looks exactly like a real one. | [Site](https://map-truth.vercel.app) · [Demo](https://youtu.be/cMuCQtug00M) · [Code](https://github.com/rzrizaldy/map-truth) |
+| **twin.md**<br><sub>2026</sub> | A local-first companion for your Obsidian vault. Built at Anthropic's invite-only *Build with Opus 4.7* hackathon. | [Site](https://rzrizaldy.github.io/twin_md/) · [Code](https://github.com/rzrizaldy/twin_md) |
+| **Tuyul**<br><sub>private</sub> | A small autonomous trading desk run by AI agents over MCP: narrow roles, shared memory, hard guardrails, a human yes on every sell, and a journal that CI audits. | [How it works](https://allrize.tech/#tuyul) |
 
-<table>
-  <tr>
-    <td width="72" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Carnegie_Mellon_University_wordmark.svg" alt="Carnegie Mellon University" height="26" />
-    </td>
-    <td>
-      <strong>Carnegie Mellon University</strong> — M.S. Public Policy & Management (Data Analytics + AI) <em>(Expected May 2027)</em><br/>
-      Focused on AI governance, analytics strategy, and deploying responsible AI where it matters — policy, public interest, and emerging markets.
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Telkomsel_%282021%29.svg" alt="Telkomsel" height="26" />
-    </td>
-    <td>
-      <strong>Telkomsel</strong> — Data Scientist II <em>(Aug 2018 – Jul 2025)</em><br/>
-      7 years shipping ML products at Southeast Asia's largest telco (170M+ subscribers). Built credit scoring and fraud detection models, optimized location intelligence pipelines from 4 days → 16 hours, and <strong>initiated a data monetization unit generating $11M/year</strong> in revenue.
-    </td>
-  </tr>
-  <tr>
-    <td width="72" align="center">
-      <img src="https://www.google.com/s2/favicons?domain=itb.ac.id&sz=64" alt="Institut Teknologi Bandung" height="28" />
-    </td>
-    <td>
-      <strong>Institut Teknologi Bandung</strong> — B.Sc. Information Systems & Technology <em>(2014 – 2018)</em><br/>
-      Where it all started — stats, enterprise architecture, and database modeling that still anchor everything I build today.
-    </td>
-  </tr>
-</table>
+## Civic data and maps
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzrizaldy&theme=github-dark&hide_border=true" alt="Contribution graph" />
-</p>
+- **[Pittsburgh Night Market Explorer](https://rzrizaldy.github.io/cmu_f26_data_to_action_nightmarket_dashboard/)** · team dashboard for CMU *From Data to Action*, Fall 2026
+- **[PGH Transit Atlas](https://rzrizaldy.github.io/pgh-transit-atlas/)** · POGOH bikeshare meets 7,075 bus stops; K-means finds four kinds of rider
+- **[NYC Transit Access](https://nyc-transit-intel.netlify.app)** · 311 complaints and NYPD data rolled into a Transit Desert Index across 2,327 census tracts
+- **[Chicago Crash Intel](https://rzrizaldy.github.io/chicago_crash_dashboard/)** · grid-cell crash risk that flags Chicago's 206 riskiest blocks
+- **[JKT Drivetime](https://rzrizaldy.github.io/jkt-drivetime/)** · Greater Jakarta drive-time map
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rzrizaldy&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
+## Built for people I care about
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rzrizaldy&theme=github_dark" alt="GitHub stats summary" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rzrizaldy&theme=github_dark" alt="Top languages by repository" />
-</p>
+- **[BukuGambar.AI](https://colorize.allrize.tech/)** · turns text or a photo into a coloring page. Built for my sons, used by other parents too.
+- **[LPDP CTRL+F](https://lpdpfind.allrize.tech)** · search 28,007 programs to find the university that fits your LPDP scholarship
+- **[Gelitik](https://gelitik.allrize.tech)** · traffic-to-revenue attribution for Indonesian builders (founder, in beta)
 
-## 🧩 Builders Tools Chain
-<p align="center">🧠 <strong>Claude Code</strong> for planning · ⚙️ <strong>Codex</strong> for auto-execute · 🔍 <strong>Cursor</strong> for inspect</p>
+## Recognition
 
-## 🌱 Looking Forward
-- Building practical AI products for high-friction decision workflows
-- Bridging data engineering, analytics, and public-interest AI policy
-- **Open to Summer 2026 internships** — AI Engineering / Analytics / Data Science
+- **2nd place**, Pittsburgh AI Safety Hackathon, Carnegie Mellon, 2026 · policy analysis of AI-enabled mass surveillance ([slides](https://allrize.tech/assets/hackathon-ai-policy.pdf))
+- **Invited participant**, Build with Opus 4.7 Hackathon, Anthropic, 2026
+- **1st place**, Prompt-a-Thon, Microsoft Indonesia, 2025
+- **LPDP Scholarship**, full ride for a master's degree, Indonesia Endowment Fund, 2024
 
----
-_Last updated: 2026-02-25 UTC_
+## Tools
+
+**Languages** · Python, SQL, PySpark, R, JavaScript<br>
+**Agentic development** · Claude Code, Codex, MCP, multi-agent orchestration, RAG, fine-tuning<br>
+**GIS** · ArcGIS Pro, QGIS, Leaflet<br>
+**Data viz** · Tableau, Power BI, Streamlit, Plotly, d3<br>
+**Data** · PostgreSQL, MySQL, MongoDB, Hadoop
+
+## The mark
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/allrize-mark-dark.svg">
+  <img src="assets/allrize-mark-light.svg" alt="Confluence mark: a red and a teal stream join into one rising stroke" width="84" align="left">
+</picture>
+
+**Confluence.** Two streams, red above and teal below, run side by side, then fade into one stroke that rises to the right. It stands for the three rivers meeting at the Point in Pittsburgh, for social science meeting technology, and for the road from Bandung to Pittsburgh.
+<br clear="left">
