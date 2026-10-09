@@ -1,8 +1,8 @@
-<a href="https://allrize.tech"><img src="assets/allrize-banner.png" alt="allrize.tech · Analytics, Policy, AI Systems · from Bandung to Pittsburgh" width="100%"></a>
+<a href="https://allrize.tech"><img src="assets/allrize-banner.jpg" alt="allrize.tech · Analytics, Policy, AI Systems · from Bandung to Pittsburgh" width="100%"></a>
 
 <h3 align="center">Rizaldy Al Kautsar Utomo</h3>
 
-<p align="center">I spent seven years at Telkomsel, where analytics from 170 million phone users fed products, revenue and policy calls on digital equity in Indonesia.<br>Now I'm at Carnegie Mellon on an LPDP scholarship, building AI for policy and development,<br>and asking who it reaches before asking how well it scores.</p>
+<p align="center">I spent seven years at Telkomsel, where analytics from 170 million phone users fed products, revenue and policy calls on digital equity in Indonesia.<br>Now I'm at Carnegie Mellon on an LPDP scholarship, learning how to make AI<br>close the equity gap in developing nations, not widen it.</p>
 
 <p align="center">
   <a href="https://allrize.tech"><strong>allrize.tech</strong></a> ·
