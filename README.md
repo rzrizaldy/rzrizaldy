@@ -41,19 +41,11 @@
 - **[Chicago Crash Intel](https://rzrizaldy.github.io/chicago_crash_dashboard/)** · grid-cell crash risk that flags Chicago's 206 riskiest blocks
 - **[JKT Drivetime](https://rzrizaldy.github.io/jkt-drivetime/)** · Greater Jakarta drive-time map
 
-## Agents and personal systems
-
-- **Rize Run Coach** <sub>private</sub> · An MCP server on top of Strava's official MCP: deterministic run coaching, a readiness gate and a 7 a.m. brief to Telegram. It is not allowed to invent health or recovery data; missing inputs stay missing.
-- **RizeBot Hermes** <sub>private</sub> · The ops control plane for my personal agent. Daily health checks and weekly audits run without calling any model.
-- **Wi-Fi presence sensing** <sub>private</sub> · $0, camera-free home presence from a Mac's Wi-Fi signal strength, with self-calibrating baselines and anomaly alerts into Home Assistant. Honest scope: it sees movement, not people.
-- **All-Rize OS** <sub>private</sub> · The portfolio control plane for my solo products: stage gates, experiment records and an explicit stop, revise or scale call for each one.
-
 ## Built for people I care about
 
 - **[BukuGambar.AI](https://colorize.allrize.tech/)** · turns text or a photo into a coloring page. Built for my sons, used by other parents too.
 - **[Quran Turn](https://quran.allrize.tech)** · a Claude Code and Codex plugin that opens a quiet, offline Qur'an reader while your coding agent works. Exact Tanzil text, no account, no tracking. ([code](https://github.com/rzrizaldy/quran-turn))
 - **[LPDP CTRL+F](https://lpdpfind.allrize.tech)** · search 28,007 programs to find the university that fits your LPDP scholarship
-- **DompetQR** <sub>private</sub> · puts your favourite QRIS e-wallet one tap away in Apple Wallet, while the payment itself stays inside the wallet provider
 - **[Gelitik](https://gelitik.allrize.tech)** · traffic-to-revenue attribution for Indonesian builders (founder, in beta)
 
 ## Recognition
