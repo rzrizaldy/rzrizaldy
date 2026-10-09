@@ -26,7 +26,7 @@
 
 | | What it is | Links |
 |---|---|---|
-| **Vitamin Bob**<br><sub>Oct 2026</sub> | Primary care triage over a free missed call. Gemma 4 runs offline on one laptop; fixed rules, not the model, set the urgency. Built with a team of four for the Hack-Nation × World Bank *Small AI for Development* hackathon. | [Site](https://vitamin-bob.vercel.app/) · [Data story](https://rzrizaldy.github.io/vitamin-bob/) · [Code](https://github.com/rzrizaldy/vitamin-bob) |
+| **Vitamin Bob**<br><sub>Oct 2026</sub><br><sub>🏆 1st, Health</sub> | Primary care triage over a free missed call. Gemma 4 runs offline on one laptop; fixed rules, not the model, set the urgency. Built with a team of four. **Winner, Health track** of the World Bank's *Small AI for Development* Youth Hackathon, out of 8,000+ applicants. Headed to Seoul to present at the World Bank Group's Global AI and Digital Summit. | [Site](https://vitamin-bob.vercel.app/) · [Data story](https://rzrizaldy.github.io/vitamin-bob/) · [Code](https://github.com/rzrizaldy/vitamin-bob) |
 | **Quran Turn**<br><sub>Sep 2026</sub> | A Claude Code and Codex plugin that opens a quiet, offline Qur'an reader while your coding agent works. Exact Tanzil text, no account, no tracking. | [Site](https://quran.allrize.tech) · [Code](https://github.com/rzrizaldy/quran-turn) |
 | **MapTruth**<br><sub>Sep 2026</sub> | AI designs the map, OpenStreetMap keeps it true. WebMCP-grounded map art, because a made-up map looks exactly like a real one. | [Site](https://map-truth.vercel.app) · [Demo](https://youtu.be/cMuCQtug00M) · [Code](https://github.com/rzrizaldy/map-truth) |
 | **twin.md**<br><sub>2026</sub> | A local-first companion for your Obsidian vault. Built at Anthropic's invite-only *Build with Opus 4.7* hackathon. | [Site](https://rzrizaldy.github.io/twin_md/) · [Code](https://github.com/rzrizaldy/twin_md) |
@@ -48,6 +48,7 @@
 
 ## Recognition
 
+- **1st place, Health track**, Small AI for Development Youth Hackathon, World Bank Group, 2026 · [Vitamin Bob](https://github.com/rzrizaldy/vitamin-bob), chosen from 8,000+ applicants worldwide; invited to present at the Global AI and Digital Summit 2026 in Seoul
 - **2nd place**, Pittsburgh AI Safety Hackathon, Carnegie Mellon, 2026 · policy analysis of AI-enabled mass surveillance ([slides](https://allrize.tech/assets/hackathon-ai-policy.pdf))
 - **Invited participant**, Build with Opus 4.7 Hackathon, Anthropic, 2026
 - **1st place**, Prompt-a-Thon, Microsoft Indonesia, 2025
